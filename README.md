@@ -1,7 +1,10 @@
 # Langchain_RAG_Local
 Langchain, RAG Local environment 
 
-- [] docker로 OpenSearch 띄우기 
+- [x] docker로 OpenSearch 띄우기
+![image](https://github.com/user-attachments/assets/1a11555c-7168-4a74-93af-f9041b3760c0)
+
+
 - [] Embedding
 - [] QA
 - [] Prompt template
