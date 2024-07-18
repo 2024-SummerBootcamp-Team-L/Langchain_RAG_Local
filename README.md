@@ -5,7 +5,7 @@ Langchain, RAG Local environment
 ![image](https://github.com/user-attachments/assets/1a11555c-7168-4a74-93af-f9041b3760c0)
 
 
-- [] Embedding
+- [x] Embedding
 - [] QA
 - [] Prompt template
 - [] LLMChain
