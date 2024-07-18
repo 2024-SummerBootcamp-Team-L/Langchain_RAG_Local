@@ -8,7 +8,9 @@ Langchain, RAG Local environment
 - [x] Embedding
 <img width="1284" alt="image" src="https://github.com/user-attachments/assets/b076fbe2-4d07-4976-8d0f-49c15a6286dd">
 
-- [] QA
+- [x] QA
+![image](https://github.com/user-attachments/assets/4683eab9-8703-4fb0-b90f-a4a7c068ba8d)
+
 - [] Prompt template
 - [] LLMChain
 - [] Langchain Memory
